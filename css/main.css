@@ -1,0 +1,202 @@
+.QT{
+	Position: relative;
+	Width: 1570px;
+	Height: 250px;
+	background-color: #000000;
+}
+.QE{
+	Position: absolute;
+	top: 150px;
+	Width: 25px;
+	Height: 2200px;
+	background-color: #000000;
+}
+.QD{
+	Position: absolute;
+	left: 1545px;
+	Width: 25px;
+	Height: 2200px;
+	background-color: #000000;
+}
+.C{
+	Position: absolute;
+	top: -140px;
+	left: -30px;
+}
+.U{
+	Position: absolute;
+	top: -140px;
+	left: -90px;
+}
+.M{
+	Position: absolute;
+	top: 45px;
+	left: -1545px;
+}
+.L{
+	Position: absolute;
+	left: -1350px;
+	top: -140px;
+}
+.B{
+	Position: absolute;
+	left: -750px;
+	top: -50px;
+}
+.MR{
+	Position: absolute;
+	width: 100%;
+	Left: -1475px;
+	top: 65px;
+	border-left: 1px;
+	background-color: #FFFFFF;
+}
+
+.MRT{
+	Position: absolute;
+	text-align: center;
+}
+.ML{
+	Position: absolute;
+	width: 100%;
+	Left: -1500px;
+	top: 100px;
+	border-left: 1px;
+}
+
+.MLT{
+	Position: absolute;
+	text-align: left;
+}
+.A{
+	Position: absolute;
+	width: 100%;
+	Left: -1075px;
+	top: 150px;
+}
+.Av{
+	Position: absolute;
+	width: 100%;
+	Left: -1500px;
+	top: 800px;
+}
+.AvM{
+	Position: absolute;
+	width: 100%;
+	Left: -1000px;
+	top: 875px;
+}
+.Aq{
+	Position: absolute;
+	width: 100%;
+	Left: -1400px;
+	top: 1400px;
+}
+.CA{
+	Position: absolute;
+	width: 100%;
+	Left: -1400px;
+	top: 1600px;
+}
+.DA{
+	Position: absolute;
+	width: 100%;
+	Left: -1400px;
+	top: 1700px;
+}
+.Bi{
+	Position: absolute;
+	width: 100%;
+	Left: -900px;
+	top: 1400px;
+}
+.CB{
+	Position: absolute;
+	width: 100%;
+	Left: -900px;
+	top: 1600px;
+}
+.DB{
+	Position: absolute;
+	width: 100%;
+	Left: -900px;
+	top: 1700px;
+}
+.Ch{
+	Position: absolute;
+	width: 100%;
+	Left: -400px;
+	top: 1400px;
+}
+.CC{
+	Position: absolute;
+	width: 100%;
+	Left: -400px;
+	top: 1600px;
+}
+.DC{
+	Position: absolute;
+	width: 100%;
+	Left: -400px;
+	top: 1700px;
+}
+.Co{
+	Position: absolute;
+	width: 100%;
+	Left: -1400px;
+	top: 1800px;
+}
+.CCo{
+	Position: absolute;
+	width: 100%;
+	Left: -1400px;
+	top: 2000px;
+}
+.DCo{
+	Position: absolute;
+	width: 100%;
+	Left: -1400px;
+	top: 2100px;
+}
+.In{
+	Position: absolute;
+	width: 100%;
+	Left: -900px;
+	top: 1800px;
+}
+.CI{
+	Position: absolute;
+	width: 100%;
+	Left: -900px;
+	top: 2000px;
+}
+.DI{
+	Position: absolute;
+	width: 100%;
+	Left: -900px;
+	top: 2100px;
+}
+.To{
+	Position: absolute;
+	width: 100%;
+	Left: -400px;
+	top: 1800px;
+}
+.CT{
+	Position: absolute;
+	width: 100%;
+	Left: -400px;
+	top: 2000px;
+}
+.DT{
+	Position: absolute;
+	width: 100%;
+	Left: -400px;
+	top: 2100px;
+}
+.QB{
+	Position: absolute;
+	top: 2200px;
+	left: -1545px;
+	background-color: #000000;
+}
