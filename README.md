@@ -4,4 +4,4 @@
 
 #### Trabalho - site de memes da sala
 
-<align="center" img src="imgs/Site.png">
+<img src="imgs/Site.png">
